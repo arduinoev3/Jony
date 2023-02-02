@@ -1,0 +1,135 @@
+set all color scale
+set alpha scale
+set antialias
+set attrib
+set audio volume
+set audio volume off
+set billboard axis
+set billboard point eye
+set billboard point world
+set bin
+set clip plane
+set clip plane off
+set collide mask
+set color
+set color off
+set color scale
+set color scale off
+set compass
+set depth offset
+set depth test
+set depth write
+set effect
+set effects
+set fluid pos
+set fluid x
+set fluid y
+set fluid z
+set fog
+set fog off
+set h
+set hpr
+set hpr scale
+set instance count
+set light
+set light off
+set logic op
+set mat
+set material
+set material off
+set max search depth
+set name
+set occluder
+set p
+set pos
+set pos hpr
+set pos hpr scale
+set pos hpr scale shear
+set pos quat
+set pos quat scale
+set pos quat scale shear
+set prev transform
+set python tag
+set quat
+set quat scale
+set r
+set render mode
+set render mode filled
+set render mode filled wireframe
+set render mode perspective
+set render mode thickness
+set render mode wireframe
+set sa
+set sb
+set scale
+set scissor
+set sg
+set shader
+set shader auto
+set shader input
+set shader inputs
+set shader off
+set shear
+set shxy
+set shxz
+set shyz
+set sr
+set state
+set sx
+set sy
+set sz
+set tag
+set tex gen
+set tex hpr
+set tex offset
+set tex pos
+set tex projector
+set tex rotate
+set tex scale
+set tex transform
+set texture
+set texture off
+set transform
+set transparency
+set two sided
+set x
+set y
+set z
+shearInterval
+show
+showAllDescendants
+showBounds
+showCS
+showSiblings
+showThrough
+showTightBounds
+show bounds
+show through
+show tight bounds
+sort
+stash
+stashTo
+stash to
+stashed children
+subdivideCollisions
+tags
+this
+this const
+this metatype
+this ownership
+toggleVis
+unifyTextureStages
+unify texture stages
+unstash
+unstashAll
+unstash all
+verifyComplete
+verify complete
+writeBamFile
+writeBamStream
+writeBounds
+write bam file
+write bam stream
+write bounds
+wrtReparentTo
+wrt reparent to
